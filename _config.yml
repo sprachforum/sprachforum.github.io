@@ -46,5 +46,3 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-# hh 18sep9-1046
-exclude: 'assets/laurel-hardy-tst.html'
